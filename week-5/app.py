@@ -454,13 +454,3 @@ if st.button("🔍 Predict Root Cause"):
 
 st.markdown("---")
 
-st.markdown("""
-### 📌 Project
-Automated Incident Root-Cause Analysis via Close-Code Classification
-
-Built using:
-- Machine Learning
-- NLP (TF-IDF)
-- Random Forest / SVM
-- Streamlit
-""")
