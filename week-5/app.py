@@ -442,9 +442,11 @@ if st.button("🔍 Predict Root Cause"):
         Root Cause:
         {label}
 
-        Confidence:
-        {confidence}%
+        
         """)
+        
+        # Confidence:
+        # {confidence}%
 
 # ============================================================
 # FOOTER
